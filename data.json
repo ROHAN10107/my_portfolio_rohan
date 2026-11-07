@@ -1,0 +1,175 @@
+{
+    "personal": {
+        "name": "rohan murari",
+        "role": "BCA Student | Web Developer",
+        "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOEvFrdUyeH4PIXj83HfM5BdwRkAcRwIdMODR6Renqw&s=10",
+        "resume": "resume.pdf",
+        "introduction": "Hello! I am rohan murari, a passionate Bachelor of Computer Applications student who loves learning programming, designing websites and exploring new technologies. I enjoy creating creative and user-friendly web applications.",
+        "careerGoal": "My goal is to become a professional Full Stack Web Developer.",
+        "email": "rohan@gmail.com",
+        "phone": "+91 9876543210",
+        "location": "hubli, karnataka, India"
+    },
+
+    "about": {
+        "name": "rohan murari",
+        "role": "BCA First Year Student",
+        "description": "I am currently pursuing Bachelor of Computer Applications (BCA). I have a strong interest in web development, programming and computer technology. I am learning HTML, CSS, JavaScript, Bootstrap, C and C++. I enjoy solving problems, building small projects and improving my technical knowledge. My objective is to develop professional software development skills and build innovative applications that solve real-world problems.",
+        "email": "rohan@gmail.com",
+        "phone": "+91 9876543210",
+        "location": "hubli, karnataka, India"
+    },
+
+    "skills": [
+        {
+            "name": "HTML5",
+            "icon": "bi bi-filetype-html",
+            "description": "Creating structured and semantic web pages.",
+            "level": 90
+        },
+        {
+            "name": "CSS3",
+            "icon": "bi bi-filetype-css",
+            "description": "Designing beautiful and responsive websites.",
+            "level": 85
+        },
+        {
+            "name": "JavaScript",
+            "icon": "bi bi-filetype-js",
+            "description": "Adding dynamic functionality to websites.",
+            "level": 65
+        },
+        {
+            "name": "Bootstrap 5",
+            "icon": "bi bi-bootstrap-fill",
+            "description": "Building responsive websites using Bootstrap.",
+            "level": 80
+        },
+        {
+            "name": "C Programming",
+            "icon": "bi bi-code-slash",
+            "description": "Learning programming fundamentals and logic.",
+            "level": 70
+        },
+        {
+            "name": "C++",
+            "icon": "bi bi-code-square",
+            "description": "Understanding object-oriented programming.",
+            "level": 60
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "Personal Portfolio Website",
+            "image": "images/project1.jpg",
+            "description": "A modern and responsive personal portfolio website to showcase my introduction, technical skills, projects, education and contact information.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap",
+                "JavaScript",
+                "JSON"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Student Management System",
+            "image": "images/project2.jpg",
+            "description": "A simple student management project designed to organize student details, academic information and records in an easy-to-use interface.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Bootstrap"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Calculator Application",
+            "image": "images/project3.jpg",
+            "description": "A simple calculator application that performs basic mathematical operations with an attractive user interface.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Landing Page Design",
+            "image": "images/project4.jpg",
+            "description": "A responsive landing page design with attractive sections, modern typography and mobile-friendly layouts.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap 5"
+            ],
+            "link": "https://github.com/"
+        }
+    ],
+
+    "education": [
+        {
+            "college": "ABC College of Computer Applications",
+            "course": "Bachelor of Computer Applications (BCA)",
+            "semester": "1st Semester",
+            "year": "2026 - 2029",
+            "status": "Currently Pursuing",
+            "result": "Awaiting Result",
+            "description": "Currently studying computer applications, programming fundamentals, computer science and web development."
+        }
+    ],
+
+    "certifications": [
+        {
+            "name": "HTML and CSS Fundamentals",
+            "provider": "Online Learning Platform",
+            "year": "2026",
+            "icon": "bi bi-award-fill",
+            "link": ""
+        },
+        {
+            "name": "Introduction to JavaScript",
+            "provider": "Online Learning Platform",
+            "year": "2026",
+            "icon": "bi bi-patch-check-fill",
+            "link": ""
+        },
+        {
+            "name": "C Programming Basics",
+            "provider": "Online Learning Platform",
+            "year": "2026",
+            "icon": "bi bi-mortarboard-fill",
+            "link": ""
+        }
+    ],
+
+    "social": [
+        {
+            "name": "GitHub",
+            "icon": "bi bi-github",
+            "url": "https://github.com/"
+        },
+        {
+            "name": "LinkedIn",
+            "icon": "bi bi-linkedin",
+            "url": "https://www.linkedin.com/"
+        },
+        {
+            "name": "Instagram",
+            "icon": "bi bi-instagram",
+            "url": "https://www.instagram.com/"
+        },
+        {
+            "name": "Facebook",
+            "icon": "bi bi-facebook",
+            "url": "https://www.facebook.com/"
+        },
+        {
+            "name": "Email",
+            "icon": "bi bi-envelope-fill",
+            "url": "mailto:rahulsharma@example.com"
+        }
+    ]
+}
